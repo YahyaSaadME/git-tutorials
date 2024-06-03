@@ -1,1 +1,6 @@
 /* No thing only for git tutorials */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
